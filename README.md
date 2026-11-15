@@ -4,7 +4,7 @@ A playable semantron, the wooden plank struck to call monastics to prayer.
 
 ## Use
 
-Download `player.html` and open it in a browser. No install or internet needed.
+Play it online at https://wgellone.github.io/semantron/, or download `index.html` and open it in a browser. No install needed.
 
 - Click the plank, or use the keys: <kbd>J</kbd>/<kbd>Space</kbd> middle,
   <kbd>F</kbd> end, or switch to the full row <kbd>A</kbd>–<kbd>;</kbd>.
